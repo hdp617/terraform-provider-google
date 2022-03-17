@@ -1,4 +1,3 @@
----
 # ----------------------------------------------------------------------------
 #
 #     ***     AUTO GENERATED CODE    ***    Type: DCL     ***
@@ -13,6 +12,7 @@
 #     are required, please file an issue at https:#github.com/hashicorp/terraform-provider-google/issues/new/choose
 #
 # ----------------------------------------------------------------------------
+---
 subcategory: "ContainerAws"
 layout: "google"
 page_title: "Google: google_container_aws_cluster"
